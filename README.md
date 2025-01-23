@@ -1,7 +1,6 @@
-# DigitalSignalProcessingHW
+# Digital Signal Processing
 
-
-This repository contains MATLAB implementations for the **Digital Signal Processing (DSP) 4th Homework** from Istanbul Technical University, focusing on convolution analysis and FIR filter design.
+This repository contains MATLAB implementations for the **Digital Signal Processing (DSP) Homework** from Istanbul Technical University, focusing on convolution analysis and FIR filter design.
 
 ---
 

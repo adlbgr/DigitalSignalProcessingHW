@@ -27,12 +27,6 @@ This repository contains MATLAB implementations for the **Digital Signal Process
 
 ---
 
-## **Key Files**
-- `convolution_analysis.m`: Linear and circular convolution implementations.
-- `fir_filter_design.m`: FIR filter design and evaluation.
-
----
-
 ## **Author**
 **Buğrahan Adalı**  
 - **Email**: adalibugrahan@gmail.com  
